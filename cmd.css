@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(117, 153, 221);
+    font-size: small;
+    text-align: center;
+}
+
+.titulo{
+    color: rgb(183, 231, 164);
+    font-size: large;
+    font-family: sans-serif;
+    font-size: larger;
+}
+
+p{
+    color: rgb(203, 255, 255);
+    font-size: medium;
+    text-align: center;
+}
+
+img{
+    background-color: lightblue;
+    padding: 5px;
+    border:black 4px solid;
+    border-radius: 16px;
+    display: flex;
+    align-content: center;
+}
+
+.sub_titulo_CMD{
+    color: darkorange;
+    font-size:large;
+    font-family: sans-serif;
+    font-size: large;
+}
+
+.sub_titulo_multimetro{
+    color: darkorange;
+    font-size: large;
+    font-family: sans-serif;
+    font-size: larger;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    cursor: pointer;
+    background-color: green;
+    opacity: 0.3;
+    font-size: 1.2rem;
+    transition: 0.3s;
+    color:white;
+}
+
+a:visited{
+    color: white;
+}
+
+li{
+    color: azure;;
+    font-size: larger;
+}
+
